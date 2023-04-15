@@ -1,5 +1,7 @@
 # dotfiles
 
+![dtop](screenshots/s1.png)
+
 Catppuccin enthusiast
 
 * Ubuntu, Gnome
